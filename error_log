@@ -1,0 +1,16 @@
+[18-Sep-2020 06:40:25 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vidhruma/public_html/vidhruma/Perc/config.php on line 6
+[18-Sep-2020 06:40:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/vidhruma/public_html/vidhruma/Perc/config.php:9
+Stack trace:
+#0 /home/vidhruma/public_html/vidhruma/Perc/header.php(1): include()
+#1 /home/vidhruma/public_html/vidhruma/Perc/index.php(1): include('/home/vidhruma/...')
+#2 {main}
+  thrown in /home/vidhruma/public_html/vidhruma/Perc/config.php on line 9
+[23-Sep-2020 11:26:01 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'pec'@'localhost' (using password: YES) in /home/vidhruma/public_html/vidhruma/Perc/config.php on line 6
+[26-Oct-2020 21:15:22 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/vidhruma/public_html/vidhruma/Perc/config.php on line 6
+[26-Oct-2020 21:16:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/vidhruma/public_html/vidhruma/Perc/config.php:9
+Stack trace:
+#0 /home/vidhruma/public_html/vidhruma/Perc/header.php(1): include()
+#1 /home/vidhruma/public_html/vidhruma/Perc/index.php(1): include('/home/vidhruma/...')
+#2 {main}
+  thrown in /home/vidhruma/public_html/vidhruma/Perc/config.php on line 9
+[28-Oct-2020 20:34:38 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/vidhruma/public_html/vidhruma/Perc/config.php on line 6

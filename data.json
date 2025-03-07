@@ -1,0 +1,906 @@
+[
+
+
+    {
+        "url":"oat_com_org.html",
+        "title": "Oat COM ORG",
+        "Description":"Anti-ageing, cleansing, anti-irritant, moisturising",
+        "INCI":"Avena Sativa Kernel Flour",
+        "Characteristics":["Powder"],
+        "Important_properties":["Anti Ageing","Moisturization","Anti oxidant","Soothing","Anti inflamation","Sensorial","Skin Protectant"],
+        "Application":["Skin care","Hair care","Colour","Sun care","Baby care","Soaps & Bath"],
+        "certificate":["Ecocert","Halal"]
+    },
+    {
+        "url":"oat_com_usp.html",
+        "title": "Oat COM USP",
+        "Description":"Anti-ageing, cleansing, anti-irritant, moisturising",
+        "INCI":"Avena Sativa Kernel Flour",
+        "Characteristics":["Powder"],
+        "Important_properties":["Anti Ageing","Moisturization","Anti oxidant","Soothing","Anti inflamation","Sensorial","Skin Protectant"],
+        "Application":["Skin care","Hair care","Colour","Sun care","Baby care","Soaps & Bath"],
+        "certificate":["Ecocert","Halal"]
+    },
+    {
+        "url":"oat_lipid_e.html",
+        "title": "Oat Lipid e",
+        "Description":"Effective emollient, natural emulsifying properties",
+        "INCI":"Avena Sativa Kernel Oil",
+        "Characteristics":["Oils"],
+        "Important_properties":["Anti Ageing","Moisturization","Anti oxidant","Soothing","Ceramides","Anti inflamation","Sensorial","Skin Protectant","Anti Acne"],
+        "Application":["Skin care","Hair care","Colour","Sun care","Baby care","Soaps & Bath"],
+        "certificate":["Ecocert"]
+    },
+    {
+        "url":"oat_silk_12.html",
+        "title": "Oat Silk 12",
+        "Description":"Excellent textural characteristics",
+        "INCI":"Avena Sativa (Oat) Meal Extract",
+        "Characteristics":["Powder"],
+        "Important_properties":["Soothing","Anti inflamation","Sensorial","Mattifying","Brightening/Luminiscence","Skin Protectant","Anti Acne"],
+        "Application":["Skin care","Hair care","Colour","Sun care","Baby care","Soaps & Bath"],
+        "certificate":["Ecocert"]
+    },
+    {
+        "url":"virgin_poppy_oil.html",
+        "title": "Virgin Poppy Seed Oil",
+        "Description":"Smooths and softens",
+        "INCI":"Papaver Somniferum Seed Oil",
+        "Characteristics":["Oils"],
+        "Important_properties":["Moisturization"],
+        "Application":["Skin care","Hair care"],
+        "certificate":["Ecocert"]
+    },
+    {
+        "url":"",
+        "title": "Oat Beads",
+        "Description":"Encapsulates advanced colloidal oatmeal, Oat COM, into collapsible cellulose beads.",
+        "INCI":"Microcrystalline Cellulose, Avena sativa (Oat) Kernel Flour, Zea mays (Corn) Starch, Colour",
+        "Characteristics":["Beads"],
+        "Important_properties":["Soothing","Anti inflamation"],
+        "Application":["Skin care","Soaps & Bath"],
+        "certificate":[]
+    },
+    {
+        "url":"avenaplex.php",
+        "title": "Avenaplex",
+        "Description":"Anti ageing, repairs, renews and protects the skin’s lipid barrier",
+        "INCI":"Avena sativa (Oat) Kernel Extract",
+        "Characteristics":["Oils","Actives"],
+        "Important_properties":["Anti Ageing","Moisturization","Anti oxidant","Soothing","Ceramides","Anti inflamation"],
+        "Application":["Skin care","Hair care","Colour","Sun care","Baby care","Soaps & Bath"],
+        "certificate":[]
+    },
+    {
+        "url":"aurafirm.php",
+        "title": "<span style="font-weight:bold;">aura</span><i>firm</i> P",
+        "Description":"Natural Oat fermented actives which improve skin health and boost cell turnover",
+        "INCI":"Lactobacillus Ferment, Avena sativa Kernel Extract, Sodium Benzoate, Potassium Sorbate",
+        "Characteristics":["Extract","Actives"],
+        "Important_properties":["Anti Ageing","Moisturization","Soothing","Brightening/Luminiscence","Firming","Microbiome","Cell Renewal"],
+        "Application":["Skin care","Hair care"],
+        "certificate":["Ecocert"]
+    },
+    {
+        "url":"",
+        "title": "<span style="font-weight:bold;">aura</span><i>firm</i> N",
+        "Description":"Natural Oat fermented actives which improve skin health and boost cell turnover",
+        "INCI":"Lactobacillus Ferment, Avena sativa Kernel Extract, Sodium Benzoate, Potassium Sorbate",
+        "Characteristics":["Extract","Actives"],
+        "Important_properties":["Anti Ageing","Moisturization","Soothing","Brightening/Luminiscence","Firming","Microbiome","Cell Renewa"],
+        "Application":["Skin care","Hair care"],
+        "certificate":["Ecocert"]
+    },
+    {
+        "url":"",
+        "title": "<span style="font-weight:bold;">aura</span><i>firm</i> S",
+        "Description":"Natural Oat fermented actives which improve skin health and boost cell turnover",
+        "INCI":"Lactobacillus Ferment, Avena sativa Kernel Extract, Sodium Benzoate, Potassium Sorbate",
+        "Characteristics":["Extract","Actives"],
+        "Important_properties":["Anti Ageing","Moisturization","Soothing","Brightening/Luminiscence","Firming","Microbiome","Cell Renewa"],
+        "Application":["Skin care","Hair care"],
+        "certificate":["Ecocert"]
+    },
+    {
+        "url":"bioptimized_guava.html",
+        "title": "Bioptimized™ Guava",
+        "Description":"Inhibits senescence side effects & inhibits NFkB activation",
+        "INCI":"Propanediol (and) Psidium Guajava Leaf Extract (and) Saccharomyces Lysate Extract",
+        "Characteristics":["Actives"],
+        "Important_properties":["Anti Ageing","Anti inflamation","Environmental protection","Suncare"],
+        "Application":["Skin care","Sun care"],
+        "certificate":[]
+    },
+    {
+        "url":"regenesea.html",
+        "title": "ReGENESEA™ LS",
+        "Description":"Anti-wrinkle, Reverses effects of aging",
+        "INCI":"Glycerin (and) Water (and) Laminaria Saccharina Extract",
+        "Characteristics":["Actives"],
+        "Important_properties":["Anti Ageing","Moisturization","Soothing","Skin Protectant","Environmental protection","Suncare","Cell Renewal"],
+        "Application":["Skin care","Colour","Sun care"],
+        "certificate":[]
+    },
+    {
+        "url":"activoil_spotless_zro.html",
+        "title": "Activoil™ Spotless ZRO",
+        "Description":"Skin luminescence – youth gain of 20 years, reduces appearance of age spots",
+        "INCI":"Ribes Nigrum (Black Currant) Seed Oil, Octyldodecanol, Octyldodecyl Oleate, Octyldodecyl Stearoyl Stearate, Paeonia Suffruticosa Root extract, Rosmarinus Officinalis (Rosemary) Leaf ",
+        "Characteristics":["Actives"],
+        "Important_properties":["Anti Ageing","Soothing","Anti inflamation","Brightening/Luminiscence","Suncare","UV ","Age spots"],
+        "Application":["Skin care","Colour","Sun care"],
+        "certificate":[]
+    },
+    {
+        "url":"activoil_echnidium_zro.html",
+        "title": "Activoil™ Echnidium ZRO",
+        "Description":"A lipophilic active, Anti-pollution / PM2.5, Sensitive skin",
+        "INCI":"Echium Plantagineum Seed Oil, Octyldodecanol, Octyldodecyl Oleate, Octyldodecyl Stearoyl Stearate, Cnidium Monnieri Fruit Extract, Rosmarinus Officinalis",
+        "Characteristics":["Actives"],
+        "Important_properties":["Skin Protectant","Environmental protection","Anti pollution","Skin barrier"],
+        "Application":["Skin care","Colour"],
+        "certificate":[]
+    },
+    {
+        "url":"activoil_kerox_pro.html",
+        "title": "Activoil™ Kerox-Pro™",
+        "Description":"Reduces UV-induced color fading, maintains cuticle ultrastructure integrity, protects against",
+        "INCI":"(Proposed): Raphanus Sativus (Radish) Seed Extract (and) Octyldodecyl Oleate (and) Octyldodecanol (and) Magnolia Officinalis Bark Extract (and) Rosmarinus officinalis (Rosemary) Leaf",
+        "Characteristics":["Actives"],
+        "Important_properties":["Environmental protection","UV"],
+        "Application":["Hair care"],
+        "certificate":[]
+    },
+    {
+        "url":"plant_c_stem.html",
+        "title": "Plant C Stem™ Vigna Radiata",
+        "Description":"Plant cell vacuole extract, rescues from UV-damage",
+        "INCI":"Glycerin (and) Water (and) Phaseolus Radiatus Extract",
+        "Characteristics":["Actives"],
+        "Important_properties":["Anti Ageing","Soothing","Anti inflamation","Suncare","UV"],
+        "Application":["Skin care","Hair care","Colour","Sun care"],
+        "certificate":[]
+    },
+    {
+        "url":"innopom.html",
+        "title": "InnoPOM™",
+        "Description":"Reengineered pomegranate, protects from UV-erythema",
+        "INCI":"Punica Granatum Fruit Juice (and) Punica Granatum Extract (and) Maltodextrin (and) Lecithin",
+        "Characteristics":["Actives"],
+        "Important_properties":["Anti Ageing","Soothing","Anti inflamation","Skin Protectant","Environmental protection","Suncare","UV"],
+        "Application":["Skin care","Hair care","Colour","Sun care"],
+        "certificate":[]
+    },
+    {
+        "url":"ginsenolite_g.html",
+        "title": "GinsenoLite™-G",
+        "Description":"Skin whitening, excellent safety profile, intimate care",
+        "INCI":"Propanediol (and) Water (and) Panax Ginseng Root Extract",
+        "Characteristics":["Actives"],
+        "Important_properties":["Brightening/Luminiscence","Whitenning","Suncare"],
+        "Application":["Skin care"],
+        "certificate":[]
+    },
+    {
+        "url":"polyaquol2w.html",
+        "title": "PolyAquol™ 2W",
+        "Description":"Polyglycerol-based for O/W, self-emulsifying, repairs skin barrier function",
+        "INCI":"Polyglyceryl-2- Stearate (and) Glyceryl Stearate (and) Stearyl Alcohol",
+        "Characteristics":["Emulsifier"],
+        "Important_properties":["Skin barrier"],
+        "Application":["Skin care","Hair care","Colour","Sun care","Baby care","Soaps & Bath"],
+        "certificate":[]
+    },
+    {
+        "url":"polyaquol_os2.html",
+        "title": "PolyAquol™ OS2",
+        "Description":"Polyglycerol-based for W/O, cold-processable, unique skin feel",
+        "INCI":"Polyglyceryl-2 Oleate (and) Polyhydroxystearic Acid (and) Polyglyceryl-2 Stearate",
+        "Characteristics":["Emulsifier"],
+        "Important_properties":["Skin barrier"],
+        "Application":["Skin care","Hair care","Colour","Sun care","Baby care","Soaps & Bath"],
+        "certificate":[]
+    },
+    {
+        "url":"poyaquollw.html",
+        "title": "polyAquol LW",
+        "Description":"Cold process O/W emulsifier",
+        "INCI":"Polyglyceryl-4 Laurate - Polyglyceryl-6 Laurate",
+        "Characteristics":["Emulsifier"],
+        "Important_properties":[],
+        "Application":["Skin care"],
+        "certificate":[]
+    },
+    {
+        "url":"polyaquol_vo4.html",
+        "title": "PolyAquol VO4",
+        "Description":"water + Oil fusion",
+        "INCI":"Polyglyceryl-4 Oleate - Polyglyceryl-6 Oleate - Polyhydroxystearic Acid",
+        "Characteristics":["Emulsifier"],
+        "Important_properties":[],
+        "Application":["Skin care"],
+        "certificate":[]
+    },
+    {
+        "url":"innollient_lo.html",
+        "title": "Innollient™ LO",
+        "Description":"Improves spreadability index, pigment dispersion",
+        "INCI":"Octyldodecyl Oleate (and) Octyldodecyl Stearoyl Stearate (and) Polyhydroxystearic Acid (and) Octyldodecanol",
+        "Characteristics":["Emollient"],
+        "Important_properties":["Moisturization","Skin barrier","Pigment dispersion"],
+        "Application":["Skin care","Hair care","Colour","Sun care","Baby care","Soaps & Bath"],
+        "certificate":[]
+    },
+    {
+        "url":"innollient_sl",
+        "title": "Innollient™ SL",
+        "Description":"Hydrofeelm™, long lasting skin barrier action",
+        "INCI":"Stearyl Linoleate (and) Stearyl Stearate (and) Polyhydroxystearic Acid (and) Stearyl Alcohol",
+        "Characteristics":["Emollient"],
+        "Important_properties":["Moisturization","Skin barrier","Pigment dispersion"],
+        "Application":["Skin care","Hair care","Colour","Sun care","Baby care","Soaps & Bath"],
+        "certificate":[]
+    },
+    {
+        "url":"licerly.html",
+        "title": "Liceryl™-12",
+        "Description":"Solubilizer for clear gels, reduces surfactant irritation",
+        "INCI":"Glyceryl Linoleate (and) PEG-12 Oleate",
+        "Characteristics":[],
+        "Important_properties":["Chemical protection","Solubilizer"],
+        "Application":["Skin care","Hair care","Colour","Baby care","Soaps & Bath"],
+        "certificate":[]
+    },
+    {
+        "url":"eceryl.html",
+        "title": "Eceryl™-12",
+        "Description":"Co-emulsifier, Solubilizer, maintains skin barrier function",
+        "INCI":"Glyceryl Erucate (and) PEG-12 Oleate",
+        "Characteristics":[],
+        "Important_properties":["Chemical protection","Solubilizer"],
+        "Application":["Skin care","Hair care","Colour","Baby care","Soaps & Bath"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "Baycusan C 1000/1",
+        "Description":"Multi functional film former for skin care, colour & Sun care",
+        "INCI":"Polyurethane-34",
+        "Characteristics":["Fim former"],
+        "Important_properties":["Anti Ageing","Moisturization","SPF booster","Anti inflamation","Whitenning","Firming","Suncare","UV","Anti Acne"],
+        "Application":["Skin care","Hair care","Colour","Sun care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "Baycusan C 1001/1",
+        "Description":"Multi functional film former for skin care, colour & Sun care",
+        "INCI":"Polyurethane-34",
+        "Characteristics":["Fim former"],
+        "Important_properties":[],
+        "Application":["Skin care","Hair care","Colour"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "Baycusan C 1003/1",
+        "Description":"Multi functional film former for skin care, colour & Sun care",
+        "INCI":"Polyurethane-32",
+        "Characteristics":["Fim former"],
+        "Important_properties":[],
+        "Application":["Skin care","Hair care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "Baycusan C 1004/1",
+        "Description":"Multifunctional film former colour, Sun care, hair care ",
+        "INCI":"Polyurethane -35",
+        "Characteristics":["Fim former"],
+        "Important_properties":["Anti pollution","Skin barrier"],
+        "Application":["Skin care","Hair care","Colour"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "Baycusan C 1008/1",
+        "Description":"Multifunctional film former for Hair - repair, Frizz control, Heat protection, Strong & flexible",
+        "INCI":"Polyurethane-48",
+        "Characteristics":["Fim former"],
+        "Important_properties":[],
+        "Application":["Hair care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "Baycusan C 1010",
+        "Description":"Multifunctional film former for Hair - repair, Frizz control, Heat protection, Strong & flexible",
+        "INCI":"Polyurethane 35",
+        "Characteristics":["Fim former"],
+        "Important_properties":["Anti pollution","Skin barrier"],
+        "Application":["Skin care","Hair care","Colour"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "Baycusan C 2000",
+        "Description":"Film former for use  in Sun care & Ethanol based Hair care formulations",
+        "INCI":"Polyuretane 64",
+        "Characteristics":["Fim former"],
+        "Important_properties":[],
+        "Application":["Sun care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "Baycusan Eco 1000",
+        "Description":"Naturally - derived Baycusan® eco E 1000 has been developed for high performance hair styling formulations with similar or better characteristics than synthetic polymers",
+        "INCI":"Polyuretnane 93",
+        "Characteristics":["Fim former"],
+        "Important_properties":[],
+        "Application":["Hair care","Colour"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "Silnos",
+        "Description":"Amorphous Spherical Silica powder with pore inside",
+        "INCI":"Silica",
+        "Characteristics":["Powder"],
+        "Important_properties":["Soft Focus","Oil Absorbing"],
+        "Application":["Skin care","Colour","Sun care"],
+        "certificate":["Ecocert"]
+    },
+    {
+        "url":"",
+        "title": "E+",
+        "Description":"Spherical Silicone Resin Powder with 3D  Network structure",
+        "INCI":"Polymethylsilsesquioxane",
+        "Characteristics":["Powder"],
+        "Important_properties":[],
+        "Application":["Skin care","Colour","Sun care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "Rheosil",
+        "Description":"Spherical Silcone Elastomer powder of cross -  linked Dimethyl Polysiloxane",
+        "INCI":"Ref TDS",
+        "Characteristics":["Powder"],
+        "Important_properties":[],
+        "Application":["Skin care","Colour","Sun care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "Silagel",
+        "Description":"Diversiform Silicone Elastomers blends with various solvents",
+        "INCI":"Ref TDS",
+        "Characteristics":["Powder"],
+        "Important_properties":[],
+        "Application":["Skin care","Colour","Sun care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "V BEAD",
+        "Description":"Micro- sized Colour Granule with Instant Colour Change",
+        "INCI":"Ref TDS",
+        "Characteristics":["Beads"],
+        "Important_properties":[],
+        "Application":["Skin care","Colour","Sun care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "White Silver powders - Cosmetic Pearlescent Pigments",
+        "Description":"Impart rich satiny luster, excellent covering power, soft-creamy feel in the skin, and optimal compressibility and binding characteristics to",
+        "INCI":"Bismuth chloride oxide",
+        "Characteristics":["Pigments"],
+        "Important_properties":["Soft Focus","Binder/Compressibility"],
+        "Application":["Skin care","Hair care","Colour","Sun care","Soaps & Bath"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "Bismica colours",
+        "Description":"Uniquely bonded combination of pigments, bismuth oxychloride and muscovite mica. Provide clear intense color and subdued satiny luster in each crystalline particle",
+        "INCI":"Ref TDS",
+        "Characteristics":["Pigments"],
+        "Important_properties":[],
+        "Application":["Skin care","Hair care","Colour","Sun care","Soaps & Bath"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "Pearl Flakes",
+        "Description":"Designed specifically for Lip Cosmetic Formulations and for Cream Eye Shadows. Provide rich luster, nacreous brilliance and color to Lipsticks, Lip Gloss and Cream Eye Shadows",
+        "INCI":"Ref TDS",
+        "Characteristics":[],
+        "Important_properties":[],
+        "Application":["Skin care","Hair care","Colour","Sun care","Soaps & Bath"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "Pearlescent dispersion - Astro H 60",
+        "Description":"Designed for either water or oil-based personal care formulations respectively. Impart a silky, elegant nacreous look to creams, shampoos,bars",
+        "INCI":"Ref TDS",
+        "Characteristics":["Pigments"],
+        "Important_properties":["Soft Focus"],
+        "Application":["Skin care","Colour","Sun care","Soaps & Bath"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "Pearlescent dispersion Astro C060",
+        "Description":"Designed for either water or oil-based personal care formulations respectively. Impart a silky, elegant nacreous look to creams, shampoos,bars",
+        "INCI":"Ref TDS",
+        "Characteristics":["Pigments"],
+        "Important_properties":["Soft Focus"],
+        "Application":["Skin care","Colour","Sun care","Soaps & Bath"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "Bismuth Citrate Powder",
+        "Description":"Bismuth citrate is the only non-toxic, FDA-approved color additive for progressive hair dyes",
+        "INCI":"Bismuth Citrate",
+        "Characteristics":[],
+        "Important_properties":["Hair Dyes"],
+        "Application":["Hair care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "Colloidal Bismuth Sub Citrate",
+        "Description":"Bismuth citrate is the only non-toxic, FDA-approved color additive for progressive hair dyes",
+        "INCI":"",
+        "Characteristics":[],
+        "Important_properties":["Hair Dyes"],
+        "Application":["Hair care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "Bismuth Citrate Concentrate",
+        "Description":"Bismuth citrate is the only non-toxic, FDA-approved color additive for progressive hair dyes",
+        "INCI":"",
+        "Characteristics":[],
+        "Important_properties":["Hair Dyes"],
+        "Application":["Hair care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "Bismuth Subnitrate",
+        "Description":"Skin whitening , Skin soothing, Antimicrobial",
+        "INCI":"",
+        "Characteristics":[],
+        "Important_properties":["Anti Ageing","Soothing"],
+        "Application":["Skin care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "Bismuth Subgallate",
+        "Description":"Skin conditioning, Antiaging,  Deodorant",
+        "INCI":"Bismuth Subgallate",
+        "Characteristics":[],
+        "Important_properties":["Anti Ageing","Soothing"],
+        "Application":["Skin care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "Uvicare - Bismuth Oxichloride",
+        "Description":"Bismuth based sun filter with better sun protection.",
+        "INCI":"Bismuth chloride oxide",
+        "Characteristics":[],
+        "Important_properties":["Anti Ageing","SPF booster","Suncare","UV"],
+        "Application":["Skin care","Hair care","Colour","Sun care","Soaps & Bath"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "PUHP 3002",
+        "Description":"Boron Nitride powders for color cosmetics & skin care",
+        "INCI":"Boron Nitride",
+        "Characteristics":["Powder"],
+        "Important_properties":["Sensorial","Soft Focus"],
+        "Application":["Skin care","Colour","Sun care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "PUHP 500",
+        "Description":"Boron Nitride powders for color cosmetics & skin care",
+        "INCI":"Boron Nitride",
+        "Characteristics":["Powder"],
+        "Important_properties":["Sensorial","Soft Focus"],
+        "Application":["Skin care","Colour","Sun care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "PUHP 3008",
+        "Description":"Boron Nitride powders for color cosmetics & skin care",
+        "INCI":"Boron Nitride",
+        "Characteristics":["Powder"],
+        "Important_properties":["Sensorial","Soft Focus"],
+        "Application":["Skin care","Colour","Sun care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "PUHP 1109",
+        "Description":"Boron Nitride powders for color cosmetics & skin care",
+        "INCI":"Boron Nitride",
+        "Characteristics":["Powder"],
+        "Important_properties":["Sensorial","Soft Focus"],
+        "Application":["Skin care","Colour","Sun care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "PUHP 3016",
+        "Description":"Boron Nitride powders for color cosmetics & skin care",
+        "INCI":"Boron Nitride",
+        "Characteristics":["Powder"],
+        "Important_properties":["Sensorial","Soft Focus"],
+        "Application":["Skin care","Colour","Sun care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "PUHP 1108",
+        "Description":"Boron Nitride powders for color cosmetics & skin care",
+        "INCI":"Boron Nitride",
+        "Characteristics":["Powder"],
+        "Important_properties":["Sensorial","Soft Focus"],
+        "Application":["Skin care","Colour","Sun care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "TRES BN Granular - PUHP 120T",
+        "Description":"TRÈS BN® Granular Powders are inert, non-toxic ceramic powders which are oil absorbent as well as gentle on sensitive skin",
+        "INCI":"Boron Nitride",
+        "Characteristics":["Powder"],
+        "Important_properties":["Sensorial","Soft Focus"],
+        "Application":["Skin care","Colour","Sun care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "TRES BN Granular - PUHP 200S",
+        "Description":"TRÈS BN® Granular Powders are inert, non-toxic ceramic powders which are oil absorbent as well as gentle on sensitive skin",
+        "INCI":"Boron Nitride",
+        "Characteristics":["Powder"],
+        "Important_properties":["Sensorial","Soft Focus"],
+        "Application":["Skin care","Colour","Sun care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "Leau BN 3002 - water dispersible",
+        "Description":"Water dispersible Boron Nitride powders for  skin care",
+        "INCI":"Boron Nitride, Peg 8 Dimethicone",
+        "Characteristics":["Powder"],
+        "Important_properties":["Sensorial","Soft Focus"],
+        "Application":["Skin care","Colour","Sun care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "Leau BN 500 - water dispersible",
+        "Description":"Water dispersible Boron Nitride powders for  skin care",
+        "INCI":"Boron Nitride, Peg 8 Dimethicone",
+        "Characteristics":["Powder"],
+        "Important_properties":["Sensorial","Soft Focus"],
+        "Application":["Skin care","Colour","Sun care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "TRES BN 1106 - Surface treated powder",
+        "Description":"Surface treated Boron Nitride powders for colour & skin care",
+        "INCI":"Boron Nitride, Methicone",
+        "Characteristics":["Powder"],
+        "Important_properties":["Sensorial","Soft Focus"],
+        "Application":["Skin care","Colour","Sun care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "TRES BN 1107 - Surface treated powder",
+        "Description":"Surface treated Boron Nitride powders for colour & skin care",
+        "INCI":"Boron Nitride, dimethicone",
+        "Characteristics":["Powder"],
+        "Important_properties":["Sensorial","Soft Focus"],
+        "Application":["Skin care","Colour","Sun care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "TRES BN Spherique - PUHP 50S",
+        "Description":"Spherical for of Boron Nitride for soft focus",
+        "INCI":"Boron Nitride",
+        "Characteristics":["Powder"],
+        "Important_properties":["Sensorial","Soft Focus"],
+        "Application":["Skin care","Colour","Sun care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "AGINON",
+        "Description":"De Ageing active from Himalayan snow tea to maintain & restore youth skin",
+        "INCI":"Thamnolia Vermicularis Leaf Extract",
+        "Characteristics":["Extract","Actives"],
+        "Important_properties":["Anti Ageing"],
+        "Application":["Skin care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "BERRIANT",
+        "Description":"Anti Microbial Active for Genital problems",
+        "INCI":"Water, Butylene Glycol, Rubus Coreanus Fruit Extract",
+        "Characteristics":["Extract","Actives"],
+        "Important_properties":["Anti microbial"],
+        "Application":["Skin care","Soaps & Bath","Genital Hygiene"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "HI Clera",
+        "Description":"Anti Irritant",
+        "INCI":"Water, Butylene Glycol, Foythia Suspensa fruit Extract/Saururus Chinensis leaf extract/Morus Alba Root extract",
+        "Characteristics":["Extract","Actives"],
+        "Important_properties":["Anti inflamation"],
+        "Application":["Skin care","Hair care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "CUTI PRO",
+        "Description":"Anti hair ageing- Cutide protection.",
+        "INCI":"Water, Butylene Glycol,Nelumbo Nucifera flower extract",
+        "Characteristics":["Extract","Actives"],
+        "Important_properties":["Anti Ageing","UV"],
+        "Application":["Hair care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "Derma CLOCK",
+        "Description":"",
+        "INCI":"Water, Butylene Glycol, Trichosantes Kirilowii root extract",
+        "Characteristics":["Extract","Actives"],
+        "Important_properties":["Anti Ageing"],
+        "Application":["Skin care"],
+        "certificate":["Ecocert","Cosmos"]
+    },
+    {
+        "url":"",
+        "title": "FLORANT CS",
+        "Description":"Photo ageing",
+        "INCI":"Water, Butylene Glycol,Cuysticus Scoparius Flower extract",
+        "Characteristics":["Extract","Actives"],
+        "Important_properties":["Anti inflamation","UV"],
+        "Application":["Skin care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "FLORANT FG",
+        "Description":"Whitening Active",
+        "INCI":"Water, Butylene Glycol, Saccharomyces/Panax Gingeng flower extract",
+        "Characteristics":[],
+        "Important_properties":[],
+        "Application":["Skin care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "HI-CLERA",
+        "Description":"Anti Irritant active reducing inflammation in skin & Scalp",
+        "INCI":"Water, Butylene Glycol, Cynanchi Radix Extract",
+        "Characteristics":["Extract","Actives"],
+        "Important_properties":["Soothing","Anti inflamation"],
+        "Application":["Skin care","Hair care","Soaps & Bath"],
+        "certificate":["Cosmos"]
+    },
+    {
+        "url":"",
+        "title": "ORICH 37",
+        "Description":"Active for Hair Growth",
+        "INCI":"Panax Notoginseng Root Extract",
+        "Characteristics":["Extract","Actives"],
+        "Important_properties":["Hair growth"],
+        "Application":["Hair care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "Planoxia BW",
+        "Description":"Detoxyfying Active from Active Metal",
+        "INCI":"Water, Butylene Glycol, Polygonum Fagopyrum ( Buckwheat) stem extract (in progress)",
+        "Characteristics":["Extract","Actives"],
+        "Important_properties":["Anti pollution"],
+        "Application":["Skin care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "Planoxia CL-SF",
+        "Description":"Turmeric super critical carbon dioxide extract for whitenning antiageing.",
+        "INCI":"Curcuma Longa ( Turmeric) root Oil",
+        "Characteristics":["Extract","Actives"],
+        "Important_properties":["Anti Ageing","Brightening/Luminiscence"],
+        "Application":["Skin care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "PLANOXIA RG",
+        "Description":"Active fro Hair Growth",
+        "INCI":"Water, Butylene Glycol, Panax Ginseng root extract",
+        "Characteristics":["Extract","Actives"],
+        "Important_properties":["Hair growth"],
+        "Application":["Skin care","Hair care"],
+        "certificate":["Ecocert","Cosmos"]
+    },
+    {
+        "url":"",
+        "title": "PUREWHITE",
+        "Description":"Whitening Active",
+        "INCI":"Water, Butylene Glycol, Moris alba root Extract",
+        "Characteristics":["Actives"],
+        "Important_properties":["Whitenning"],
+        "Application":["Skin care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "RADICAN S20",
+        "Description":"Bio Synthetic product for skin conditioning",
+        "INCI":"Water/Butlene Glycol/Beta Glucan",
+        "Characteristics":["Actives"],
+        "Important_properties":["Moisturization"],
+        "Application":["Skin care"],
+        "certificate":["Cosmos"]
+    },
+    {
+        "url":"",
+        "title": "RADIPO",
+        "Description":"Slimming agent",
+        "INCI":"Water, Butylene Glycol, Prunela Vulgaris extract",
+        "Characteristics":["Actives"],
+        "Important_properties":["slimming"],
+        "Application":["Skin care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "RASTEM",
+        "Description":"Anti ageing",
+        "INCI":"Water, Butylene Glycol, Ipomoea Hederacea Callus culture extract",
+        "Characteristics":["Actives"],
+        "Important_properties":["Anti Ageing"],
+        "Application":["Skin care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "SLIMLITE",
+        "Description":"Anti Cellulite",
+        "INCI":"Water, Butylene Glycol, Maglonia officinalis bark extract",
+        "Characteristics":["Actives"],
+        "Important_properties":["slimming"],
+        "Application":["Skin care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "TimeSel BAM",
+        "Description":"Skin Vital effect ingredient produced by Eco friendly Time- Drop process",
+        "INCI":"Water, Butylene Glycol, Bambusa Vulgaris extract",
+        "Characteristics":["Extract","Actives"],
+        "Important_properties":["Anti Ageing"],
+        "Application":["Skin care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "Radican SP",
+        "Description":"Skin Conditioning",
+        "INCI":"Phellinus Linteus mycelium/Schizophyllan/Butylene Glycol",
+        "Characteristics":["Actives"],
+        "Important_properties":["Moisturization"],
+        "Application":["Skin care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "RESVERAD",
+        "Description":"Whitening Active",
+        "INCI":"Water, Butylene Glycol, Saccharomyces/CaraganaSinica root extract",
+        "Characteristics":["Actives"],
+        "Important_properties":["Whitenning"],
+        "Application":["Skin care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "ROSIVETA",
+        "Description":"Skin Protective effect against Ozone",
+        "INCI":"Water, Butylene Glycol, Rosa Davurica bud extract",
+        "Characteristics":["Actives"],
+        "Important_properties":["Anti pollution"],
+        "Application":["Skin care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "RADVON",
+        "Description":"Lip Conditioning & breast enhancement effect",
+        "INCI":"Water/Butylene Glycol/Glycine Max ( Spyabean) Sprout Extract",
+        "Characteristics":["Actives"],
+        "Important_properties":[],
+        "Application":["Skin care","Colour"],
+        "certificate":["Ecocert","Cosmos"]
+    },
+    {
+        "url":"",
+        "title": "PUREFIX DC",
+        "Description":"Anti Acne",
+        "INCI":"Water /Butlene Glycol/Dryopteris Filix-Mas Root Extract",
+        "Characteristics":["Actives"],
+        "Important_properties":["Anti Acne"],
+        "Application":["Skin care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "Greenoxia 3C",
+        "Description":"Active balances skin glow by promoting sebum production, & Moisturizing effet",
+        "INCI":"Chichorium intybus(Chicory) leaf extract, Brassica Oleracea Italica(Brocolli) Extract, Apium Graveloens (Celery Extract.",
+        "Characteristics":["Actives"],
+        "Important_properties":["Skin barrier"],
+        "Application":["Skin care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "Guardian T",
+        "Description":"Active for Mens skin care",
+        "INCI":"Salicornea Herbecea Extract",
+        "Characteristics":["Actives"],
+        "Important_properties":["Skin barrier"],
+        "Application":["Skin care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "Noblems",
+        "Description":"Active for Anti redness",
+        "INCI":"Cornus officinalis Fruit Extract",
+        "Characteristics":["Actives"],
+        "Important_properties":["Anti inflamation"],
+        "Application":["Skin care"],
+        "certificate":[]
+    },
+    {
+        "url":"",
+        "title": "White snow Gel",
+        "Description":"Active for moisturization",
+        "INCI":"Thamnolia Vermicularis Leaf Extract/Sporassis Crispa extract",
+        "Characteristics":["Actives"],
+        "Important_properties":["Moisturization"],
+        "Application":["Skin care"],
+        "certificate":[]
+    }
+
+
+]
